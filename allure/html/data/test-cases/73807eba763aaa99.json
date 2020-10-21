@@ -1,0 +1,222 @@
+{
+  "uid" : "73807eba763aaa99",
+  "name" : "test_001",
+  "fullName" : "script.test_script.test_sure.Test_HCJ#test_001",
+  "historyId" : "6bb18c40ecd90db4960fedc76b31a79d",
+  "time" : {
+    "start" : 1600768145346,
+    "stop" : 1600768145346,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "subSuite",
+    "value" : "Test_HCJ"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script.test_script"
+  }, {
+    "name" : "suite",
+    "value" : "test_sure"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GEF3BOCB"
+  }, {
+    "name" : "thread",
+    "value" : "23640-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_script.test_sure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 16,
+        "unknown" : 0,
+        "total" : 18
+      },
+      "items" : [ {
+        "uid" : "e9317ccbcfddf5f0",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/59/allure/#testresult/e9317ccbcfddf5f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600768078139,
+          "stop" : 1600768078140,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "14202f136bbfacd",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/57/allure/#testresult/14202f136bbfacd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600767616181,
+          "stop" : 1600767616181,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9b140bc54f1b31ee",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/56/allure/#testresult/9b140bc54f1b31ee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600767616181,
+          "stop" : 1600767616181,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ae60b4ceaab1612a",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/55/allure/#testresult/ae60b4ceaab1612a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600767616181,
+          "stop" : 1600767616181,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4fc72770fdc9cd64",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/54/allure/#testresult/4fc72770fdc9cd64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600767569934,
+          "stop" : 1600767569934,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ead5769a1d40ec6c",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/52/allure/#testresult/ead5769a1d40ec6c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600767391058,
+          "stop" : 1600767391058,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f0d297696c6e0b32",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/51/allure/#testresult/f0d297696c6e0b32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600767391058,
+          "stop" : 1600767391058,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "27573b1e518f2218",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/49/allure/#testresult/27573b1e518f2218",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600766210532,
+          "stop" : 1600766210532,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6ac76a11a3b206c7",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/48/allure/#testresult/6ac76a11a3b206c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600766210532,
+          "stop" : 1600766210532,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "e5bd932757aea1e",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/47/allure/#testresult/e5bd932757aea1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600765048589,
+          "stop" : 1600765048589,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "8132802d45a7f739",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/45/allure/#testresult/8132802d45a7f739",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600764714489,
+          "stop" : 1600764714489,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f913fe4a38687119",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/33/allure/#testresult/f913fe4a38687119",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600761323930,
+          "stop" : 1600761323930,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a19884fde600dbac",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/25/allure/#testresult/a19884fde600dbac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600667709349,
+          "stop" : 1600667709349,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1306a9ce6d6e991a",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/24/allure/#testresult/1306a9ce6d6e991a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600667601720,
+          "stop" : 1600667601720,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "37813cee7086fdb8",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/20/allure/#testresult/37813cee7086fdb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600667128776,
+          "stop" : 1600667128776,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ba5ae30a6a9e9ba5",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/19/allure/#testresult/ba5ae30a6a9e9ba5",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 0",
+        "time" : {
+          "start" : 1600667085062,
+          "stop" : 1600667085062,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "8e60beb91df992f8",
+        "reportUrl" : "http://localhost:8080/jenkins/job/%E7%A6%8F%E5%B7%9E/18/allure/#testresult/8e60beb91df992f8",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 0",
+        "time" : {
+          "start" : 1600656736690,
+          "stop" : 1600656736690,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "73807eba763aaa99.json",
+  "parameterValues" : [ ]
+}

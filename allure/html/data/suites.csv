@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Sep 22 17:49:05 CST 2020","Tue Sep 22 17:49:05 CST 2020","0","script.test_script","test_script","Test_hcj","","","test_001",""
+"passed","Tue Sep 22 17:49:05 CST 2020","Tue Sep 22 17:49:05 CST 2020","0","script.test_script","test_script","Test_hcj","","","test_002",""
+"passed","Tue Sep 22 17:49:05 CST 2020","Tue Sep 22 17:49:05 CST 2020","0","script.test_script","test_sure","Test_HCJ","","","test_002",""
+"passed","Tue Sep 22 17:49:05 CST 2020","Tue Sep 22 17:49:05 CST 2020","0","script.test_script","test_sure","Test_HCJ","","","test_001",""

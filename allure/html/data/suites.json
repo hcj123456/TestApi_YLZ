@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "script.test_script",
+    "children" : [ {
+      "name" : "test_script",
+      "children" : [ {
+        "name" : "Test_hcj",
+        "children" : [ {
+          "name" : "test_001",
+          "uid" : "38aa851b15f07e01",
+          "parentUid" : "b8086d2865e411796a9caa2db66b75e9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600768145342,
+            "stop" : 1600768145342,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_002",
+          "uid" : "db7f42457f953e7c",
+          "parentUid" : "b8086d2865e411796a9caa2db66b75e9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600768145344,
+            "stop" : 1600768145344,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b8086d2865e411796a9caa2db66b75e9"
+      } ],
+      "uid" : "c6de62339c77365e6ab242c3794cadf3"
+    }, {
+      "name" : "test_sure",
+      "children" : [ {
+        "name" : "Test_HCJ",
+        "children" : [ {
+          "name" : "test_001",
+          "uid" : "73807eba763aaa99",
+          "parentUid" : "445546a05c896377f01e455f74286c1b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600768145346,
+            "stop" : 1600768145346,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_002",
+          "uid" : "ee251c51273bd58f",
+          "parentUid" : "445546a05c896377f01e455f74286c1b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600768145348,
+            "stop" : 1600768145348,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "445546a05c896377f01e455f74286c1b"
+      } ],
+      "uid" : "3dcc48a169724c4ea21419e7feb08a5b"
+    } ],
+    "uid" : "0f2cd99b337ea5cd2b2c8cc8d8596fed"
+  } ]
+}
